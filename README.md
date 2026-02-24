@@ -1,4 +1,4 @@
-# Hey, I'm Nkemajah Bodelain 👋
+# Hey, I'm Bodelain 👋
 
 Fullstack developer from Yaoundé, Cameroon. I build web apps that actually solve business problems — fast, clean, and useful.
 
