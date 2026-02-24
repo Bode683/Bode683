@@ -1,4 +1,4 @@
-# Hey, I'm Bodelain 👋
+# Hi, I'm Bodelain 👋
 
 Fullstack developer from Yaoundé, Cameroon. I build web apps that actually solve business problems — fast, clean, and useful.
 
@@ -34,7 +34,11 @@ Worked remotely with an international team on data pipelines and ML models befor
 ## Connect
 
 📧 [nkemajahbodelain@gmail.com](mailto:nkemajahbodelain@gmail.com)
+
 🌐 [nkemajah-bodelain.vercel.app](https://nkemajah-bodelain.vercel.app/)
+
 💼 [LinkedIn](https://www.linkedin.com/in/nkemajah-bodelain/)
+
+---
 
 Currently: Building from Yaoundé. Open to remote. Always curious about the next hard problem.
