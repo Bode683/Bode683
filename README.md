@@ -4,6 +4,10 @@ Fullstack developer from Yaoundé, Cameroon. I build web apps that actually solv
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## What I'm Building
 
 **🌐 Network Management**
@@ -41,4 +45,4 @@ Worked remotely with an international team on data pipelines and ML models befor
 
 ---
 
-Currently: Building from Yaoundé. Open to remote. Always curious about the next hard problem.
+Currently open to remote opportunities. Always curious about the next hard problem.
